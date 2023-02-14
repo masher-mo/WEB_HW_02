@@ -1,0 +1,16 @@
+body
+{
+    background-color: black;
+    color: aliceblue;
+    width: 1200px;
+}
+h1 {
+    color: rgb(33, 204, 33);
+}
+sq {
+    color: aliceblue;
+}
+a {
+    color: chartreuse;
+}
+
